@@ -6,20 +6,13 @@ public class Solution {
         this.roots = roots;
     }
     public Solution() {
-        this.roots[0] =null;
-        this.roots[1] = null;
-
     }
 
     public Object getRoot1() {
-
             return roots[0];
-
     }
     public Object getRoot2() {
-
             return roots[1];
-
     }
 
     public void printResult() {
